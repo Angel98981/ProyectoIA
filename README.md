@@ -7,3 +7,4 @@
 | Julian Matemo Mena Urrego     | 1038821102   | Ingeniería Eléctrica    |
 | Therry Jones Bent O'Neill     | 1007433181   | Ingeniería Eléctrica    |
 
+- [PROYECTO_ENTREGA1.pdf](PROYECTO_ENTREGA1.pdf)
