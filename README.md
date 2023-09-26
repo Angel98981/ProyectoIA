@@ -1,14 +1,9 @@
 # ProyectoIA
 # Participantes del Proyecto
 
-- Nombre: Miguel Angel Rivera Florez
-- Cédula: 1152467107
-- Programa: Ingeniería de Materiales
+| Nombre                        | Cédula       | Programa                |
+| ----------------------------- | ------------ | ----------------------- |
+| Miguel Angel Rivera Florez    | 1152467107   | Ingeniería de Materiales|
+| Julian Matemo Mena Urrego     | 1038821102   | Ingeniería Eléctrica    |
+| Therry Jones Bent O'Neill     | 1007433181   | Ingeniería Eléctrica    |
 
-- Nombre: Julian Matemo Mena Urrego
-- Cédula: 1038821102
-- Programa: Ingeniería Eléctrica
-
-- Nombre: Therry Jones Bent O'Neill
-- Cédula: 1007433181
-- Programa: Ingeniería Eléctrica
