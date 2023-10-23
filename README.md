@@ -10,4 +10,5 @@
 - [PROYECTO_ENTREGA1.pdf](PROYECTO_ENTREGA1.pdf)
 - [PROYECTO_ENTREGA2.pdf](PROYECTO_ENTREGA2.pdf)
 - [NOTEBOOK](01-Exporacion_de_datos.ipynb)
+- https://youtu.be/PEPnZ4h9w5g
   
