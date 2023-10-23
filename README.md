@@ -8,3 +8,6 @@
 | Therry Jones Bent O'Neill     | 1007433181   | Ingeniería Eléctrica    |
 
 - [PROYECTO_ENTREGA1.pdf](PROYECTO_ENTREGA1.pdf)
+- [PROYECTO_ENTREGA2.pdf](PROYECTO_ENTREGA2.pdf)
+- [NOTEBOOK](01-Exporacion_de_datos.ipynb)
+  
